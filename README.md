@@ -41,13 +41,7 @@ This project is an **Uber Data Analysis Dashboard** built using **Power BI** to 
 
 ## 🖼️ Dashboard Preview
 
-Add your dashboard screenshots here after uploading them.
-
-Example:
-
-```md
-![Dashboard Screenshot](screenshot.png)
-```
+Dashboard-Preview.png
 
 ## 🎯 Project Objective
 
