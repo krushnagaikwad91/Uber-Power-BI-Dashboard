@@ -64,7 +64,7 @@ The objective of this dashboard is to provide meaningful business insights from 
 
 ## 👨‍💻 Author
 
-**Krushna Gaikawad**
+**Krushnadev Gaikawad**
 Aspiring **Python Developer | Data Analyst | Power BI Developer**
 
 ### ⭐ If you like this project, don't forget to star the repository!
